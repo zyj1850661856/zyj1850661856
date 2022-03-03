@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jack Zeng
+- 👀 I’m interested in embedded software development 
+- 🌱 I’m currently learning embedded robot operating system 
+- 💞️ I’m looking to collaborate on business in the direction of the drone platform
+- 📫 Welcome to contact me 
